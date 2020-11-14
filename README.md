@@ -1,4 +1,5 @@
 # Repo maintained for portfolio site hosting.
+
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
@@ -28,7 +29,7 @@
 
 ## About The Project
 
-This project represents my professional portfolio. It has three static HTML pages, styled with Sass precompiler.
+This project represents my professional portfolio. It has three static HTML pages, styled with Sass preprocessor scripting language.
 
 ### Built With
 
