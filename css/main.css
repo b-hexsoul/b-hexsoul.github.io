@@ -6,6 +6,8 @@
 }
 
 .card {
+  background-color: white;
+  color: #000;
   text-align: center;
   margin: 0.5rem 0 1rem 0;
   border-radius: 2px;
@@ -15,6 +17,11 @@
 .card-content {
   padding: 20px;
   border-radius: 0 0 2px 2px;
+}
+
+.col {
+  display: block;
+  text-align: center;
 }
 
 .btn-main, .btn-light, .btn-dark {
@@ -376,7 +383,7 @@ img {
 
 #about-c .about-skills {
   display: grid;
-  grid-template-areas: "html html frontend frontend";
+  grid-template-areas: "html html frontend frontend" "db db misc misc";
   grid-gap: 1.2rem;
 }
 
@@ -388,13 +395,21 @@ img {
   grid-area: frontend;
 }
 
+#about-c .about-db {
+  grid-area: db;
+}
+
+#about-c .about-misc {
+  grid-area: misc;
+}
+
 #about-c .about-logos {
   display: flex;
   justify-content: space-around;
 }
 
 #about-c .about-logos img {
-  width: 10%;
+  max-width: 10%;
 }
 
 #work-html {

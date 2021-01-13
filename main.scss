@@ -180,7 +180,7 @@ img {
   &-c {
     .about-skills {
       display: grid;
-      grid-template-areas: "html html frontend frontend";
+      grid-template-areas: "html html frontend frontend" "db db misc misc";
       grid-gap: 1.2rem;
     }
 
@@ -192,12 +192,20 @@ img {
       grid-area: frontend;
     }
 
+    .about-db {
+      grid-area: db;
+    }
+
+    .about-misc {
+      grid-area: misc;
+    }
+
     .about-logos {
       display: flex;
       justify-content: space-around;
 
       img {
-        width: 10%;
+        max-width: 10%;
       }
     }
   }
