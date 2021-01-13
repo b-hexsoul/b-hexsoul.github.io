@@ -5,6 +5,18 @@
   overflow: hidden;
 }
 
+.card {
+  text-align: center;
+  margin: 0.5rem 0 1rem 0;
+  border-radius: 2px;
+  box-shadow: 0px 6px 10px 0 rgba(0, 0, 0, 0.16);
+}
+
+.card-content {
+  padding: 20px;
+  border-radius: 0 0 2px 2px;
+}
+
 .btn-main, .btn-light, .btn-dark {
   display: inline-block;
   padding: 0.8rem 2rem;
@@ -362,24 +374,23 @@ img {
   color: #ffbc00;
 }
 
-#about-b .progress {
-  overflow: hidden;
-  height: 20px;
-  background: #ccc;
-  border-radius: 5px;
-  margin-bottom: 0.6rem;
+#about-c .about-skills {
+  display: grid;
+  grid-template-areas: "html html frontend frontend";
+  grid-gap: 1.2rem;
 }
 
-#about-b .progress div {
-  height: 100%;
-  background: #ffbc00;
-  color: #fff;
-  text-align: center;
+#about-c .about-html {
+  grid-area: html;
+}
+
+#about-c .about-frontend {
+  grid-area: frontend;
 }
 
 #about-c .about-logos {
   display: flex;
-  justify-content: space-between;
+  justify-content: space-around;
 }
 
 #about-c .about-logos img {
