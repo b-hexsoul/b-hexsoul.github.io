@@ -423,6 +423,7 @@ img {
 }
 
 #about-c .about-logos img {
+  max-height: 100px;
   width: 10%;
 }
 
