@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "97781fd56c8582d4aa0570a4ae49f5f6",
+    "revision": "68a12cffa8fef7fc00fcc2a17a6ba816",
     "url": "/b-hexsoul.github.io/b-hexsoul.github.io/index.html"
   },
   {
@@ -12,7 +12,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/b-hexsoul.github.io/b-hexsoul.github.io/static/css/4.3e7d09e6.chunk.css"
   },
   {
-    "revision": "dec5e9ffceacd1ab448e",
+    "revision": "de41b4443048428bbf6f",
     "url": "/b-hexsoul.github.io/b-hexsoul.github.io/static/css/main.91e2d08b.chunk.css"
   },
   {
@@ -32,8 +32,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/b-hexsoul.github.io/b-hexsoul.github.io/static/js/4.e2749876.chunk.js"
   },
   {
-    "revision": "dec5e9ffceacd1ab448e",
-    "url": "/b-hexsoul.github.io/b-hexsoul.github.io/static/js/main.4eeb865d.chunk.js"
+    "revision": "de41b4443048428bbf6f",
+    "url": "/b-hexsoul.github.io/b-hexsoul.github.io/static/js/main.c16aa4ec.chunk.js"
   },
   {
     "revision": "2e98dacb9d1ff7e77e2f",
@@ -52,6 +52,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/b-hexsoul.github.io/b-hexsoul.github.io/static/media/aws-logo.c7401f52.png"
   },
   {
+    "revision": "779acc6d6d9e498fefe61a6a4a0b4d1a",
+    "url": "/b-hexsoul.github.io/b-hexsoul.github.io/static/media/bearshare.779acc6d.png"
+  },
+  {
     "revision": "51cf7192327488da3d2a171280680c16",
     "url": "/b-hexsoul.github.io/b-hexsoul.github.io/static/media/contactMailDark.51cf7192.svg"
   },
@@ -64,6 +68,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/b-hexsoul.github.io/b-hexsoul.github.io/static/media/expedia-logo.c7aaa783.png"
   },
   {
+    "revision": "a3f7df769f3ce2e7c3cc1bafa9c166b7",
+    "url": "/b-hexsoul.github.io/b-hexsoul.github.io/static/media/fridgenerator.a3f7df76.gif"
+  },
+  {
     "revision": "bed2081b3216b2df6653ac3d55d900c4",
     "url": "/b-hexsoul.github.io/b-hexsoul.github.io/static/media/hudello-logo.bed2081b.png"
   },
@@ -74,14 +82,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "5e5b4d17cb4fc29e3c405f6cc5218ee1",
     "url": "/b-hexsoul.github.io/b-hexsoul.github.io/static/media/mitx.5e5b4d17.png"
-  },
-  {
-    "revision": "829ad0a1deef4d7295adfecdf12df2be",
-    "url": "/b-hexsoul.github.io/b-hexsoul.github.io/static/media/nextuLogo.829ad0a1.webp"
-  },
-  {
-    "revision": "25018d29d5ab115bc51c3e9a2d92f90f",
-    "url": "/b-hexsoul.github.io/b-hexsoul.github.io/static/media/saayaHealthLogo.25018d29.webp"
   },
   {
     "revision": "d4537055ea001e9b7d426bf5d45321ea",

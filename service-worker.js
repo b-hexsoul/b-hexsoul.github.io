@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/b-hexsoul.github.io/b-hexsoul.github.io/precache-manifest.0d0eb12edbc39e0aab9de8cc82c78e04.js"
+  "/b-hexsoul.github.io/b-hexsoul.github.io/precache-manifest.81b229aa811c64892a8019da7b5734ee.js"
 );
 
 self.addEventListener('message', (event) => {
