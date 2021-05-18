@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/brandon.is-a.dev/static/css/main.7304f5f0.chunk.css",
+    "main.js": "/brandon.is-a.dev/static/js/main.a2f1370e.chunk.js",
+    "main.js.map": "/brandon.is-a.dev/static/js/main.a2f1370e.chunk.js.map",
+    "runtime-main.js": "/brandon.is-a.dev/static/js/runtime-main.d4a6a1d4.js",
+    "runtime-main.js.map": "/brandon.is-a.dev/static/js/runtime-main.d4a6a1d4.js.map",
+    "static/js/2.28b3fc86.chunk.js": "/brandon.is-a.dev/static/js/2.28b3fc86.chunk.js",
+    "static/js/2.28b3fc86.chunk.js.map": "/brandon.is-a.dev/static/js/2.28b3fc86.chunk.js.map",
+    "static/css/3.00373544.chunk.css": "/brandon.is-a.dev/static/css/3.00373544.chunk.css",
+    "static/js/3.3d3fc74b.chunk.js": "/brandon.is-a.dev/static/js/3.3d3fc74b.chunk.js",
+    "static/js/3.3d3fc74b.chunk.js.map": "/brandon.is-a.dev/static/js/3.3d3fc74b.chunk.js.map",
+    "static/css/4.3e7d09e6.chunk.css": "/brandon.is-a.dev/static/css/4.3e7d09e6.chunk.css",
+    "static/js/4.e2749876.chunk.js": "/brandon.is-a.dev/static/js/4.e2749876.chunk.js",
+    "static/js/4.e2749876.chunk.js.map": "/brandon.is-a.dev/static/js/4.e2749876.chunk.js.map",
+    "index.html": "/brandon.is-a.dev/index.html",
+    "precache-manifest.ecd9fbc9f3e835b14195f6ca1120cfd5.js": "/brandon.is-a.dev/precache-manifest.ecd9fbc9f3e835b14195f6ca1120cfd5.js",
+    "service-worker.js": "/brandon.is-a.dev/service-worker.js",
+    "static/css/3.00373544.chunk.css.map": "/brandon.is-a.dev/static/css/3.00373544.chunk.css.map",
+    "static/css/4.3e7d09e6.chunk.css.map": "/brandon.is-a.dev/static/css/4.3e7d09e6.chunk.css.map",
+    "static/css/main.7304f5f0.chunk.css.map": "/brandon.is-a.dev/static/css/main.7304f5f0.chunk.css.map",
+    "static/js/2.28b3fc86.chunk.js.LICENSE.txt": "/brandon.is-a.dev/static/js/2.28b3fc86.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/brandon.is-a.dev/static/media/Montserrat-Regular.ee653992.ttf",
+    "static/media/aws-logo.png": "/brandon.is-a.dev/static/media/aws-logo.c7401f52.png",
+    "static/media/contactMailDark.svg": "/brandon.is-a.dev/static/media/contactMailDark.51cf7192.svg",
+    "static/media/developerActivity.svg": "/brandon.is-a.dev/static/media/developerActivity.59389695.svg",
+    "static/media/expedia-logo.png": "/brandon.is-a.dev/static/media/expedia-logo.c7aaa783.png",
+    "static/media/hudello-logo.png": "/brandon.is-a.dev/static/media/hudello-logo.bed2081b.png",
+    "static/media/manOnTable.svg": "/brandon.is-a.dev/static/media/manOnTable.52be3144.svg",
+    "static/media/mitx.png": "/brandon.is-a.dev/static/media/mitx.5e5b4d17.png",
+    "static/media/nextuLogo.webp": "/brandon.is-a.dev/static/media/nextuLogo.829ad0a1.webp",
+    "static/media/saayaHealthLogo.webp": "/brandon.is-a.dev/static/media/saayaHealthLogo.25018d29.webp",
+    "static/media/su-logo.png": "/brandon.is-a.dev/static/media/su-logo.d4537055.png",
+    "static/media/uw-logo.png": "/brandon.is-a.dev/static/media/uw-logo.f0614fc1.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d4a6a1d4.js",
+    "static/js/2.28b3fc86.chunk.js",
+    "static/css/main.7304f5f0.chunk.css",
+    "static/js/main.a2f1370e.chunk.js"
+  ]
+}
