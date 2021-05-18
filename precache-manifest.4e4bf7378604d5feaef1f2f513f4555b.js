@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1bbed11323dc44e20ff31c46da5a0c7f",
+    "revision": "802bd2be9c137ed4636b7c23f25863c0",
     "url": "/b-hexsoul.github.io/b-hexsoul.github.io/index.html"
   },
   {
@@ -12,7 +12,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/b-hexsoul.github.io/b-hexsoul.github.io/static/css/4.3e7d09e6.chunk.css"
   },
   {
-    "revision": "5df4dc2e43f64e2666b1",
+    "revision": "50b9280fc4369c7ad57b",
     "url": "/b-hexsoul.github.io/b-hexsoul.github.io/static/css/main.91e2d08b.chunk.css"
   },
   {
@@ -32,8 +32,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/b-hexsoul.github.io/b-hexsoul.github.io/static/js/4.e2749876.chunk.js"
   },
   {
-    "revision": "5df4dc2e43f64e2666b1",
-    "url": "/b-hexsoul.github.io/b-hexsoul.github.io/static/js/main.1095e1bb.chunk.js"
+    "revision": "50b9280fc4369c7ad57b",
+    "url": "/b-hexsoul.github.io/b-hexsoul.github.io/static/js/main.bf4cf811.chunk.js"
   },
   {
     "revision": "2e98dacb9d1ff7e77e2f",
