@@ -189,25 +189,33 @@ const bigProjects = {
   subtitle: "BOOTCAMP GROUP PROJECTS",
   projects: [
     {
-      image: require("./assets/images/saayaHealthLogo.webp"),
-      projectName: "Saayahealth",
-      projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      image: require("./assets/images/bearshare.png"),
+      projectName: "Bear Share",
+      projectDesc: "Buy, Sell, and Trade stuffed animals, communicate with others",
       footerLink: [
         {
+          name: "Visit Github",
+          url: "https://github.com/jre23/bear-share"
+        },
+        {
           name: "Visit Website",
-          url: "http://saayahealth.com/"
+          url: "https://nameless-plains-06669.herokuapp.com/"
         }
         //  you can add extra buttons here.
       ]
     },
     {
-      image: require("./assets/images/nextuLogo.webp"),
-      projectName: "Nextu",
-      projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      image: require("./assets/images/fridgenerator.gif"),
+      projectName: "FridGenerator",
+      projectDesc: "Generate a recipe catered to a user's input of ingredients, save multiple recipes",
       footerLink: [
         {
+          name: "Visit Github",
+          url: "https://github.com/b-hexsoul/fridGenerator"
+        },
+        {
           name: "Visit Website",
-          url: "http://nextu.se/"
+          url: "https://brandon.is-a.dev/fridGenerator/"
         }
       ]
     }
